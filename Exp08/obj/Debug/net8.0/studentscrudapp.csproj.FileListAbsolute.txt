@@ -1,0 +1,5 @@
+E:\ENGG\THIRD YEAR\Second Sem\Lab\Advanced_Dot_Net\Exp08\obj\Debug\net8.0\studentscrudapp.csproj.AssemblyReference.cache
+E:\ENGG\THIRD YEAR\Second Sem\Lab\Advanced_Dot_Net\Exp08\obj\Debug\net8.0\studentscrudapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ENGG\THIRD YEAR\Second Sem\Lab\Advanced_Dot_Net\Exp08\obj\Debug\net8.0\studentscrudapp.AssemblyInfoInputs.cache
+E:\ENGG\THIRD YEAR\Second Sem\Lab\Advanced_Dot_Net\Exp08\obj\Debug\net8.0\studentscrudapp.AssemblyInfo.cs
+E:\ENGG\THIRD YEAR\Second Sem\Lab\Advanced_Dot_Net\Exp08\obj\Debug\net8.0\studentscrudapp.csproj.CoreCompileInputs.cache
